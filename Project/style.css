@@ -238,12 +238,11 @@ h3.services__subtitle {
 .services__option-text:last-child {
 	margin-right:0;
 }
-strong.services__option-text {
+strong {
 	color: #000;
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 700;
-	line-height: 20px;
 }
 
 .services__text {
@@ -268,7 +267,7 @@ strong.services__option-text {
 	margin-bottom: 49px;
 }
 .news__item {
-	widht:557px;
+	width: 557px;
 	display: inline-block;
 	vertical-align: top;
 	position: relative;
@@ -395,13 +394,19 @@ font-weight: 400;
 .footer-contanier {
 	margin-top: 54px;
 }
+
 .footer {
 	position: relative;
 	margin: 0 auto;
 	margin-top: 41px;
+	height: 93px;
 }
+
 .footer-container__content {
 	border-top: 1px solid #2E3032;
+}
+.footer .footer-container {
+	margin-bottom: 56px;
 }
 .socials {
 	position: absolute;
