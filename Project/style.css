@@ -143,7 +143,6 @@ a.contacts__tel {
 .preview {
 	margin-top: 20px;
 	width: 776px;
-	height: 333px;
 	margin: 0 auto;
 	text-align: center;
 	}
@@ -221,11 +220,14 @@ h3.services__subtitle {
 	line-height: normal;
 }
 
+.services__option { 
+	margin-top: 17px;
+}
+
 .services__option-text {
 	display: inline-block;
 	width: 123px;
 	height: 41px;
-	margin-top: 17px;
 	margin-right: 55px;
 	position: relative;
 	color: #666;
