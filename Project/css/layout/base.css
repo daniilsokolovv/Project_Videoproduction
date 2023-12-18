@@ -74,7 +74,12 @@ button {
 .wrapper__content {
 	flex: 1;
 }
+
 .main-page-wrapper {
 	background: url("/img/background.png")center top no-repeat, url("img/bottom-pic.png") center bottom no-repeat;
 }
 
+.container {
+	margin: 0 auto;
+	width: 1142px;
+}
