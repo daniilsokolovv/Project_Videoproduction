@@ -19,6 +19,11 @@
 	justify-content: flex-end
 }
 
+.footer__left, .footer__right{
+	display: flex;
+	align-items: center;
+	justify-content: flex-end
+}
 .footer .menu {
 	margin-left: 130px;
 }

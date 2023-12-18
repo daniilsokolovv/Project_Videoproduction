@@ -4,7 +4,7 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin-top: 50px;
+	margin-top: 66px;
 }
 /* .paginator__display,*/ .paginator__list{ 
 	/* display: inline-block; 
@@ -40,7 +40,6 @@
 .paginator__link:hover {
 	background: #FF3D00;
 }
-
 
 .paginator__theme--light .paginator__item--active .paginator__link{
 	color: #000;

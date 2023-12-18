@@ -10,16 +10,12 @@
 	margin-bottom: 49px;
 }
 .news__item {
-	/* width: 359px; */
-	/* display: inline-block; */
-	/* height: 394px; */
 	vertical-align: top;
 	position: relative;
 	margin-right: 20px;
 	flex: 1;
 	display: flex;
 	flex-direction: column;
-	/* align-items: flex-end; */
 }
 
 .news__item:last-child {
@@ -35,10 +31,6 @@
 }
 
 .news__content {
-	/* position: absolute; */
-	/* left: 0;
-	right: 0;
-	bottom: 0; */
 	padding: 25px 31px;
 	min-height: 140px;
 }

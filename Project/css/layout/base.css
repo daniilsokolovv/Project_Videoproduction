@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 }
 
-p{
+p {
 	margin-top: 0;
 }
 
@@ -61,6 +61,12 @@ button {
 	font-family: "Open Sans";
 	font-style: normal;
 	font-weight: 700;
+}
+
+.button--border {
+	background: transparent;
+	border-color: #FF3D00;
+	color: #FF3D00;
 }
 
 .wrapper {
