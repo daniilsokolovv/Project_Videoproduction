@@ -1,9 +1,9 @@
 
 .top-line {
-	min-height: 412px;
+	min-height: 416px;
 	display: flex;
 	flex-direction: column;
-	padding-bottom: 29px;
+	padding-bottom: 26px;
 	background:#17191C url('../../img/top-line.png')center top no-repeat;
 }
 

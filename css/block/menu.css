@@ -9,6 +9,9 @@
 	font-weight: 400;
 }
 
+.menu__list {
+	margin-top: 13px;
+}
 .menu__item:last-child {
 	margin-right: 0;
 }

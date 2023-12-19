@@ -34,19 +34,23 @@ li.services__item {
 }
 
 .services__content {
-	padding: 20px 22px 49px 16px;
+	padding: 33px 22px 49px 16px;
 	/* position: relative; */
 	/* margin-top: auto; */
+	display: flex;
+	flex-direction: column;
 }
 
 .services__icon {
 	vertical-align: top;
-	margin-top: 13px;
+	/* margin-top: 13px; */
 	margin-left: 8px;
+	height: 86px;
+	width: 86px;
 }
 
 h3.services__subtitle {
-	margin-top: 30px;
+	margin-top: 25px;
 	font-size: 32px;
 	color: #000;
 	font-style: normal;
@@ -110,7 +114,8 @@ strong {
 }
 
 .services__button {
-	margin-top: 29px;
+	margin-top: auto;
 	margin-left: 4px;
 	vertical-align: bottom;
+
 }
