@@ -5,7 +5,7 @@
 	justify-content: space-between;
 	position: relative;
 	width: 100%;
-	/* margin: 0 auto; */
+	margin: 0 auto;
 	
 }
 .footer__col{
@@ -38,15 +38,15 @@ footer .contacts__text{
 
 .footer-container__content {
 	border-top: 1px solid #2E3032;
-	margin-top: -18px;
+	margin-top: 0px;
 }
 .footer .footer-container {
 	margin-bottom: 56px;
 }
 
 .footer-container__section {
-	margin-top: 34px;
-	height: 93px;
+	margin-top: 38px;
+	margin-bottom: 57px;
 }
 
 
