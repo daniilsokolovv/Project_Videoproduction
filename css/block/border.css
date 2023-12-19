@@ -1,0 +1,39 @@
+.contanier--welcome {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+ 
+.wrapper--welcome{
+	height: 920px;
+	background: #17191C url('/img/bgwelcome.png') top no-repeat;
+	display: flex;
+	justify-content: center;
+} 
+
+.border {
+	width: 1128px;
+	height: 643px;
+	background: url('/img/rec.png') center top no-repeat;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 45px;
+	
+}
+
+.border__content {
+	display: block;
+	position: relative;
+	width: 538px;
+	text-align: center;
+	margin-top: 45px;
+}
+
+.logo__border__img {
+	margin-bottom: 45px;
+}
+
+.button--welcome{
+	width: 168px;
+}
