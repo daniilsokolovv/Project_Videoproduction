@@ -17,7 +17,7 @@ ul.services__list {
 .services__item {
 	display: flex;
 	width: calc(100%/3);
-	min-height: 476px;
+	/* min-height: 476px; */
 	border: 1px solid;
 	margin-right: 27px;
 	flex: 1;
@@ -39,6 +39,7 @@ li.services__item {
 	/* margin-top: auto; */
 	display: flex;
 	flex-direction: column;
+	flex: 1;
 }
 
 .services__icon {
@@ -111,6 +112,7 @@ strong {
 	font-weight: 400;
 	line-height: 22px;
 	margin-top: 22px;
+	margin-bottom: 15px;
 }
 
 .services__button {
