@@ -39,6 +39,7 @@
 }
 .paginator__link:hover {
 	background: #FF3D00;
+	color: #fff;
 }
 
 .paginator__theme--light {
@@ -46,6 +47,6 @@
 }
 
 .paginator__theme--light .paginator__item--active .paginator__link{
-	color: #000;
+	color: #fff;
 	background: #FF3D00;
 }
