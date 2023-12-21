@@ -63,6 +63,16 @@ button {
 	font-weight: 700;
 }
 
+.button:hover {
+	scale: 1.1;
+	opacity: .5;
+	transition: scale .5s, opacity .1s, ease-in;
+}
+.button--border:hover {
+	scale: 1.1;
+	opacity: .5;
+	transition: scale .5s, opacity .1s, ease-in;
+}
 .button--border {
 	background: transparent;
 	border-color: #FF3D00;
