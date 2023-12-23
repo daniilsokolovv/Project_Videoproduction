@@ -1,0 +1,16 @@
+
+.page-title {
+	font-size: 72px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: normal;
+	text-transform: uppercase;
+	margin-top: 31px;
+}
+
+.page-content {
+	background: #FFF;
+	color: #303030;
+	padding: 44px 0 85px;
+	width: 100%;
+}

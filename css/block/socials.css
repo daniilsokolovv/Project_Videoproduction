@@ -2,12 +2,15 @@
 .socials {
 	margin-right: 66px;
 }
-
+.socials__list {
+	margin-top: 12px;
+}
 .socials__item {
 	display: inline-flex;
 	vertical-align: middle;
 	margin-right: 6px;
 }
+
 .services__item:last-child {
 	margin-right: 0;
 }
@@ -21,6 +24,6 @@
 }
 
 .socials__link:hover {
-	scale: 1.3;
+	scale: 1.1;
 	transition: scale .2s, ease-out;
 } 
