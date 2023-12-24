@@ -65,14 +65,17 @@ button {
 	cursor: pointer;
 }
 
+
 .button:hover {
 	scale: 1.01;
 	transition: scale .2s, ease-in;
 }
+
 .button--border:hover {
 	scale: 1.01;
 	transition: scale .2s, ease-in;
 }
+
 .button--border {
 	background: transparent;
 	border-color: #FF3D00;
