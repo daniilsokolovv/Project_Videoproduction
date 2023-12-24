@@ -7,8 +7,8 @@
 	height: 100%;
 	align-items: center;
 	justify-content: center;
-	height: 920px;
-	background: #17191C url('../../img/bgwelcome.png') center bottom no-repeat;
+	/* height: 920px; */
+	background: #17191C url('../../img/bgwelcome.png') center center no-repeat;
 }
  
 
@@ -58,6 +58,6 @@
 	}
 }
 
-.button--welcome{
+.button__welcome{
 	width: 168px;
 }

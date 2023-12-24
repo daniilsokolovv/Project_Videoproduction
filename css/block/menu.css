@@ -19,3 +19,7 @@
 .menu__link:hover {
 	color: #C54407;
 	}
+
+.menu__link--action {
+color: #C54407;
+	}
