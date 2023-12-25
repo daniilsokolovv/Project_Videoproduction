@@ -5,10 +5,36 @@
 .socials__list {
 	margin-top: 12px;
 }
+
 .socials__item {
 	display: inline-flex;
 	vertical-align: middle;
 	margin-right: 6px;
+	opacity: 0.5;
+}
+
+.socials__item--tlg {
+	width: 36px;
+	height: 36px;
+  background: url('../../img/socials_sprites.png') -10px -122px;
+}
+
+.socials__item--vk {
+	width: 36px;
+	height: 36px;
+  background: url('../../img/socials_sprites.png') -10px -178px;
+}
+
+.socials__item--fb {
+	width: 36px;
+	height: 36px;
+  background: url('../../img/socials_sprites.png') -10px -10px;
+}
+
+.socials__item--inst {
+	width: 36px;
+	height: 36px;
+  background: url('../../img/socials_sprites.png') -10px -66px;
 }
 
 .services__item:last-child {
@@ -18,12 +44,13 @@
 .socials__link {
 	display: block;
 	text-decoration: none;
-	width: 36px;
+	/* width: 36px;
 	height: 36px;
-	opacity: .5;
+	opacity: .5; */
 }
 
-.socials__link:hover {
-	scale: 1.1;
-	transition: scale .2s, ease-out;
+.socials__item:hover {
+	opacity: 1;
+	scale: 1.05;
+	transition: scale .1s, ease-out;
 } 

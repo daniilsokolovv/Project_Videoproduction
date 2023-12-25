@@ -16,10 +16,14 @@
 	margin-right: 0;
 }
 
-.menu__link:hover {
+.menu__item:hover {
 	color: #C54407;
-	}
+	scale: 1.02;
+	transition: scale .3s ;
+}
 
-.menu__link--action {
-color: #C54407;
-	}
+.menu__item--action, .menu__item--action:hover {
+	color: #C54407;
+	opacity: .8;
+	scale: .95;
+}
