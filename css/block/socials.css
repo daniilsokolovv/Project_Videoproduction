@@ -11,30 +11,24 @@
 	vertical-align: middle;
 	margin-right: 6px;
 	opacity: 0.5;
+	width: 36px;
+	height: 36px;
 }
 
 .socials__item--tlg {
-	width: 36px;
-	height: 36px;
-  background: url('../../img/socials_sprites.png') -10px -122px;
+	background: url('../../img/socials_sprites.png') -10px -122px;
 }
 
 .socials__item--vk {
-	width: 36px;
-	height: 36px;
-  background: url('../../img/socials_sprites.png') -10px -178px;
+	background: url('../../img/socials_sprites.png') -10px -178px;
 }
 
 .socials__item--fb {
-	width: 36px;
-	height: 36px;
-  background: url('../../img/socials_sprites.png') -10px -10px;
+	background: url('../../img/socials_sprites.png') -10px -10px;
 }
 
 .socials__item--inst {
-	width: 36px;
-	height: 36px;
-  background: url('../../img/socials_sprites.png') -10px -66px;
+	background: url('../../img/socials_sprites.png') -10px -66px;
 }
 
 .services__item:last-child {
